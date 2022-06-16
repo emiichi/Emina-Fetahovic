@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:#998989;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color:#EEE3A7;
+	padding: 20px;
+}
+.paragraf1 {color:#998989; background-color: rgba(255, 0, 0.5)}
+h1, h3 {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color:#E845B6;
+}
+
+span {color: rgb(225, 0, 255);}
+.background{
+	background-color:#DDBEE0;
+}
+.secondbackground {
+	background-color: darkgray;
+}
+a:link{
+	color: black;
+	background-color:antiquewhite;
+	lineheight: 5px; 
+}
+a:hover{
+	background-color:rosybrown;
+}
+img {
+	height: 200px;
+}	
